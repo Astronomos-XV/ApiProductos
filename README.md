@@ -35,4 +35,9 @@ y seleccionas DELETE
 # Mostrar Productos 
 Seleccionas GET
 
+y pones esto
+
 http://localhost:8080/productos
+
+
+# ESTO ESTA CORRIENDO EN TEMURIN 21
