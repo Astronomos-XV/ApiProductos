@@ -32,6 +32,14 @@ http://localhost:8080/productos/ID
 
 y seleccionas DELETE
 
+Seleccionas GET
+
+y pones esto
+
+http://localhost:8080/productos
+
+para observar que el producto fue eliminado
+
 # Mostrar Productos 
 Seleccionas GET
 
