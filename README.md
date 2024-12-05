@@ -15,7 +15,7 @@ y pones esto
     }
 # Actualizar un producto
 
-Seleccionas GET
+Seleccionas POST
 
 y pones esto
 
