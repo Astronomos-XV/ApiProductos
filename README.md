@@ -5,7 +5,7 @@ Hecho en java y adjuntado a spring
 
 # Añadir un producto
 
-Seleccionas GET
+Seleccionas POST
 
 y pones esto
 
@@ -33,5 +33,6 @@ http://localhost:8080/productos/ID
 y seleccionas DELETE
 
 # Mostrar Productos 
+Seleccionas GET
 
 http://localhost:8080/productos
